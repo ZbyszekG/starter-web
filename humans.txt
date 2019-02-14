@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	changes in role info
+	and dditionl line for teting purposes
 
 # THANKS
 
