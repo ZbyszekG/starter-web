@@ -13,6 +13,7 @@
 	additional changes to review how to work with conflicts, when trying to rebase
 	another changes in master version of file humans.txt
 	changes in the same file but in mybranch (should generate rebase conflict)
+	changes in the same file but in mybranch (should generate rebase conflict)
 
 # THANKS
 
