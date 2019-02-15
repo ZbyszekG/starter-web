@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## Additional INFO
 
 And sample text needed to change something in master branch code 
+
+
+## Rebase testing
