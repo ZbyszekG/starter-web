@@ -15,6 +15,9 @@ And sample text needed to change something in master branch code
 
 Another rebase tests
 
+<<<<<<< HEAD
 ## Remote rebase testing
 
 Remote rebase testing
+=======
+>>>>>>> origin/mybranch
