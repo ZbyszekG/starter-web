@@ -8,12 +8,9 @@
 	changes in master branch file version
 	checking how rebase is working 
 	above you see reason of changes in this file
-<<<<<<< HEAD
 	additional changes to review how to work with conflicts, when trying to rebase
 	another changes in master version of file humans.txt
-=======
 	changes in the same file but in mybranch (should generate rebase conflict)
->>>>>>> Preparing conflict in code when trying to rebase (changes in humans.txt but done in mybranch)
 
 # THANKS
 
