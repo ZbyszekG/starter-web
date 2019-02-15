@@ -6,6 +6,8 @@
 	changes in role info
 	and dditionl line for teting purposes
 	changes in master branch file version
+	checking how rebase is working 
+	above you see reason of changes in this file
 
 # THANKS
 
