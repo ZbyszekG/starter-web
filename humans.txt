@@ -8,6 +8,7 @@
 	changes in master branch file version
 	checking how rebase is working 
 	above you see reason of changes in this file
+	additional changes to review how to work with conflicts, when trying to rebase
 
 # THANKS
 
