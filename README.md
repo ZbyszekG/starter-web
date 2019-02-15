@@ -15,7 +15,6 @@ And sample text needed to change something in master branch code
 
 Another rebase tests
 
-=======
 ## Remote rebase testing
 
 Remote rebase testing
