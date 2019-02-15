@@ -5,6 +5,7 @@
 
 	changes in role info
 	and dditionl line for teting purposes
+	some value that will cause branch merge conflict
 
 # THANKS
 
