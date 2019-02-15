@@ -12,3 +12,5 @@ And sample text needed to change something in master branch code
 
 
 ## Rebase testing
+
+Another rebase tests
