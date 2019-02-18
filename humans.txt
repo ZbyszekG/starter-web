@@ -13,8 +13,6 @@
 	additional changes to review how to work with conflicts, when trying to rebase
 	another changes in master version of file humans.txt
 
-	Adding important notest to this file before stash
-
 # THANKS
 
     <name>
