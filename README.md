@@ -21,3 +21,7 @@ Another rebase tests
 Remote rebase testing
 =======
 >>>>>>> origin/mybranch
+
+## Changes after stash
+
+some changes on master branch during some additional were stashed for some purposes
