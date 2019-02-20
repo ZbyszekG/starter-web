@@ -13,6 +13,8 @@
 	additional changes to review how to work with conflicts, when trying to rebase
 	another changes in master version of file humans.txt
 
+	new line for stash (moving to new branch)
+
 # THANKS
 
     <name>

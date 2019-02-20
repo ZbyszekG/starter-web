@@ -1,2 +1,3 @@
 #Adding new file to git project
 This file actually is ot tracked by git
+New line for stash (movinng to ne branch)
